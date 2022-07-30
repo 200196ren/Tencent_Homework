@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{92B38268-40A1-72C6-8599-6AA9419F6F89}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "NewAndroidProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
